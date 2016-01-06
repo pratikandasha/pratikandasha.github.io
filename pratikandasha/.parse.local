@@ -1,0 +1,10 @@
+{
+  "applications": {
+    "_default": {
+      "link": "pratikandasha"
+    },
+    "pratikandasha": {
+      "applicationId": "lbXfDrenLLxnGgUORisZsSheCBz70nL4JLuFVwIA"
+    }
+  }
+}
